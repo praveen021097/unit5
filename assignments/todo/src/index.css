@@ -1,0 +1,20 @@
+.editText{
+    width: 70px;
+    height: 50px;
+}
+
+#todoDiv{
+    display: flex;
+    height: 500px;
+    border: 1px solid black;
+}
+#inputDiv{
+    border: 1px solid red;
+    width: 100%;
+    height: 100%;
+}
+#outputDiv{
+    border: 1px solid green;
+    width: 100%;
+    height: 100%;
+}
